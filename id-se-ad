@@ -1,0 +1,22 @@
+A segurança e a identidade são componentes cruciais na Azure para proteger seus recursos e dados. Aqui estão alguns conceitos e práticas recomendadas para você entender melhor:
+
+1. Identidade como Perímetro de Segurança
+A identidade é considerada o novo perímetro de segurança. Com a Microsoft Entra ID (anteriormente Azure AD), você pode gerenciar identidades e controlar o acesso a recursos de forma centralizada1.
+
+2. Autenticação Multifator (MFA)
+A MFA adiciona uma camada extra de segurança, exigindo que os usuários forneçam duas ou mais formas de verificação antes de acessar recursos2.
+
+3. Logon Único (SSO)
+O SSO permite que os usuários acessem vários aplicativos com uma única credencial de login, simplificando a experiência do usuário e melhorando a segurança2.
+
+4. Controle de Acesso Baseado em Função (RBAC)
+O RBAC permite que você atribua permissões específicas a usuários com base em suas funções dentro da organização, garantindo que eles tenham apenas o acesso necessário para realizar suas tarefas2.
+
+5. Proteção de Identidade
+O Microsoft Entra ID oferece proteção de identidade, detectando e respondendo a atividades suspeitas e riscos de segurança em tempo real3.
+
+6. Gerenciamento de Identidade Híbrida
+Para organizações que utilizam uma combinação de recursos locais e na nuvem, o gerenciamento de identidade híbrida permite sincronizar identidades e garantir uma experiência de login consistente2.
+
+7. Acesso Condicional
+O acesso condicional permite que você defina políticas que controlam como e quando os usuários podem acessar recursos, com base em condições como localização, dispositivo e risco de login1.
